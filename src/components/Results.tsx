@@ -13,7 +13,7 @@ const stats = [
   },
   {
     icon: DollarSign,
-    value: "$3,000+",
+    value: "$3k+",
     label: "Monthly value recovered",
   },
   {
@@ -68,5 +68,6 @@ const Results = () => {
     </section>
   );
 };
+
 
 export default Results;
