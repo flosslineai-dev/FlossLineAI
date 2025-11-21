@@ -40,9 +40,9 @@ const Hero = () => {
                 className="rounded-full border-2"
                 asChild
               >
-                <a href="tel:+15043156707">
+                <a href="tel:+19724361325">
                   <Phone className="mr-2 h-5 w-5" />
-                  (504) 315-6707
+                  Test Demo Agent
                 </a>
               </Button>
               
@@ -79,5 +79,6 @@ const Hero = () => {
     </section>
   );
 };
+
 
 export default Hero;
